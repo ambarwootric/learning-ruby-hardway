@@ -1,0 +1,1 @@
+This is the content of ex17_sample_from.txt file.
